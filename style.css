@@ -97,7 +97,6 @@ div.nav-toggle svg path {
 	}
 	div.nav-toggle:hover {
 		color: red;
-		/* background-color: green; */
 	}
 	div.nav-toggle:hover svg path {
 		fill: red;
